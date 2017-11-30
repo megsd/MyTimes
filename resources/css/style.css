@@ -1,0 +1,19 @@
+header {
+  top: 0;
+  left: 0;
+  width: 100px;
+  position: fixed;
+  font-family: Verdana;
+  font-size: 14px;
+  font-weight: bold;
+  color: MediumAquamarine;
+}
+
+nav {
+  display: flex;
+  border-bottom: 1px solid black;
+}
+
+nav span {
+  display: inline-block;
+}
