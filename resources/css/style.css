@@ -3,15 +3,16 @@ header {
   left: 0;
   width: 100px;
   position: fixed;
-  font-family: Verdana;
-  font-size: 14px;
-  font-weight: bold;
   color: MediumAquamarine;
 }
 
 nav {
   display: flex;
   border-bottom: 1px solid black;
+  font-family: Verdana;
+  font-size: 14px;
+  font-weight: bold;
+  list-style-type: none;
 }
 
 nav span {
